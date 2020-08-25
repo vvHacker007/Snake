@@ -85,7 +85,7 @@ text =" You Lost!\nWant to Try Again? "
 text_2 = smallfont.render('Q - Quit' , True , red)
 text_3 = smallfont.render('Space - Play-Again' , True , red)
 text_4 = smallfont.render('Or', True, red)
-text_5 = "Congrats!!!\nYou have beaten your HighScore\nCurrent HighScore:"
+text_5 = "Congrats!!!\nYou have beat the HighScore\nCurrent HighScore:"
 
 
 # making a display for the game and defining its size and giving it features
